@@ -3,7 +3,7 @@
 Generate no-glue fold-over cardboard boxes for lasercutting or drag-knife CNC machines.  
 Output is SVG, scale 1:1 in millimetres.
 
-**Live demo:** *https://elliotletourneau.github.io/FoldOverBoxGenerator/*
+**Live demo:** *[Generator](https://elliotletourneau.github.io/FoldOverBoxGenerator/)*
 
 ---
 
